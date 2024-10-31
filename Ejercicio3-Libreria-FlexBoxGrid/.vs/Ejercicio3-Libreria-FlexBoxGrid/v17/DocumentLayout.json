@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio3-Libreria-FlexBoxGrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD2289D-9674-4063-847C-728C4861EBE0}|Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana8-tutorial-udemy\\ejercicio3-libreria-flexboxgrid\\ejercicio3-libreria-flexboxgrid\\cssnueva\\flexboxgrid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DD2289D-9674-4063-847C-728C4861EBE0}|Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid.csproj|solutionrelative:ejercicio3-libreria-flexboxgrid\\cssnueva\\flexboxgrid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD2289D-9674-4063-847C-728C4861EBE0}|Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana8-tutorial-udemy\\ejercicio3-libreria-flexboxgrid\\ejercicio3-libreria-flexboxgrid\\pagina1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0DD2289D-9674-4063-847C-728C4861EBE0}|Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid.csproj|solutionrelative:ejercicio3-libreria-flexboxgrid\\pagina1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "flexboxgrid.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid\\cssNueva\\flexboxgrid.css",
+              "RelativeDocumentMoniker": "Ejercicio3-Libreria-FlexBoxGrid\\cssNueva\\flexboxgrid.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid\\cssNueva\\flexboxgrid.css",
+              "RelativeToolTip": "Ejercicio3-Libreria-FlexBoxGrid\\cssNueva\\flexboxgrid.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T19:17:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagina1.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid\\Pagina1.aspx",
+              "RelativeDocumentMoniker": "Ejercicio3-Libreria-FlexBoxGrid\\Pagina1.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio3-Libreria-FlexBoxGrid\\Ejercicio3-Libreria-FlexBoxGrid\\Pagina1.aspx",
+              "RelativeToolTip": "Ejercicio3-Libreria-FlexBoxGrid\\Pagina1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T19:02:29.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

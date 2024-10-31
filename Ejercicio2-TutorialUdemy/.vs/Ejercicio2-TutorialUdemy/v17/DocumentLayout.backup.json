@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio2-TutorialUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92BD3F6D-9F47-4016-93B4-DDD538DEF6CC}|Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana8-tutorial-udemy\\ejercicio2-tutorialudemy\\ejercicio2-tutorialudemy\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92BD3F6D-9F47-4016-93B4-DDD538DEF6CC}|Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy.csproj|solutionrelative:ejercicio2-tutorialudemy\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BD3F6D-9F47-4016-93B4-DDD538DEF6CC}|Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana8-tutorial-udemy\\ejercicio2-tutorialudemy\\ejercicio2-tutorialudemy\\flexbox.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{92BD3F6D-9F47-4016-93B4-DDD538DEF6CC}|Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy.csproj|solutionrelative:ejercicio2-tutorialudemy\\flexbox.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy\\Style.css",
+              "RelativeDocumentMoniker": "Ejercicio2-TutorialUdemy\\Style.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy\\Style.css",
+              "RelativeToolTip": "Ejercicio2-TutorialUdemy\\Style.css",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T17:28:08.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flexbox.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy\\Flexbox.aspx",
+              "RelativeDocumentMoniker": "Ejercicio2-TutorialUdemy\\Flexbox.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana8-Tutorial-Udemy\\Ejercicio2-TutorialUdemy\\Ejercicio2-TutorialUdemy\\Flexbox.aspx",
+              "RelativeToolTip": "Ejercicio2-TutorialUdemy\\Flexbox.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T17:19:50.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
